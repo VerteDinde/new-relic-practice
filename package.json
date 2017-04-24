@@ -1,0 +1,25 @@
+{
+  "name": "new-relic-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VerteDinde/new-relic-practice.git"
+  },
+  "author": "Keeley Hammond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VerteDinde/new-relic-practice/issues"
+  },
+  "homepage": "https://github.com/VerteDinde/new-relic-practice#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
